@@ -38,8 +38,6 @@ I have 6+ years of experience in B2B marketing, editorial strategy and SaaS sale
 
 ## Projects on this profile
 
-Everything here uses sample or anonymized data. No employer data is published.
-
 | Repository | What it contains |
 |---|---|
 | [gtm-launch-playbook](https://github.com/mpanchal113/gtm-launch-playbook) | A go-to-market plan template with audience, messaging, channels, launch calendar and KPIs |
@@ -116,8 +114,6 @@ J'ai plus de 6 ans d'expérience en marketing B2B, stratégie éditoriale et com
 | Ventes B2B | Objectifs annuels dépassés d'un facteur 3 et portefeuille clients +30 % |
 
 ## Projets
-
-Tous les projets utilisent des données d'exemple ou anonymisées. Aucune donnée d'employeur n'est publiée.
 
 - **gtm-launch-playbook**, modèle de plan go-to-market
 - **product-marketing-messaging-kit**, modèles de positionnement et de messages produit
